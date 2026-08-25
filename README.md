@@ -17,6 +17,6 @@ cd ml-demand-forecasting
 
 # Install dependencies
 pip install -r requirements.txt
-
+i c re
 # Run model training
 python src/train.py
