@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you utilize this software or predictive methodology, please cite it as below."
+authors:
+  - family-names: "Shehzad"
+    given-names: "Naeem"
+title: "ML Demand Forecasting Framework"
+version: 1.0.0
+date-released: 2026-08-25
+url: "https://github.com/your-username/ml-demand-forecasting"
